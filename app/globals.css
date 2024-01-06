@@ -78,6 +78,12 @@
 
 .text-max-width {
   max-width: 150ch;
-  columns: 2;
+  columns: 1;
   margin: auto;
+}
+
+@media screen and (min-width:600px) {
+  .text-max-width {
+    columns: 2;
+  }
 }

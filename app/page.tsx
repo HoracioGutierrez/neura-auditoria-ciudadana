@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <main className='py-6 px-2 lg:px-4 container grow'>
+    <main className='py-6 px-2 lg:px-4 container grow pt-[100px]'>
       <h1 className='scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl mb-10'>
         Proyecto De Auditoria Ciudadana
       </h1>
